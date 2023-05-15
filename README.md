@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreya Singh</h1>
 <h3 align="center">Data Analyst</h3>
-<h3>🌟 Data Enthuiast</h3>
+<h3>🌟 Data Enthusiast</h3>
 <br/>
 <h3>🌟 Exploring Opportunities in Data Analytics Field</h3> 
 <br/>
