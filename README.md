@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shreya Singh</h1>
 <h3 align="center">Data Analyst</h3>
+<h3>🌟 Data Enthuiast</h3>
+<br/>
+<h3>🌟 Exploring Opportunities in Data Analytics Field</h3> 
+<br/>
+<h3>🌟 Skilled in SQL, Ms Excel, Power BI</h3>
+<br/>
+<br/>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya-1503&label=Profile%20views&color=0e75b6&style=flat" alt="shreya-1503" /> </p>
 
